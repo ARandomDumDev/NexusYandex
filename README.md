@@ -1,6 +1,6 @@
 # nexusnet for Yandex Station 2
 
-My script for the Bad Apple!! animation on the Yandex Station 2 LED lights
+My script for the nexusnet animation on the Yandex Station 2 LED lights (felicity is nexusnet slave)
 
 ## 1. How it works
 1. Loads the required values from `frames.txt`
